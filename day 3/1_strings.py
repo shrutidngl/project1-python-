@@ -57,12 +57,12 @@ print(DATA[-5:])  # guage
 
 # We cannot update string elements because string is an immutable datatype
 
-DATA = "I am learning"
-DATA[5] = "L"  # This raises error. We can't change the particular position of a string data.
-del DATA[5]  # This is also not possible
+data = "I am learning"
+data[5] = "L" # This raises error. We can't change the particular position of a string data.
+del data[5]  # This is also not possible
 
 # But we can delete the string object
-# del data   # It deletes the string object
+del data   # It deletes the string object
 
 
 # String Special Operators
@@ -76,7 +76,7 @@ print(RESULT)
 
 # Repetition 
 B = "World"
-print(A * 3)
+print(B * 3)
 
 # Membership 
 

@@ -23,3 +23,6 @@ Set username and email
    => Adds all the changes to the git
 
 3. git commit -m"<commit-message>"
+   => Commits all the changes
+
+   
