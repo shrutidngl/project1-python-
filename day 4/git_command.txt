@@ -34,6 +34,7 @@ Set username and email
 
 # Steps to create a merge conflict 
 1. Make changes in branch1 in a particular file
+commit 
 2. Checkout to main
 3. Merge the branch1
 4. Make changes in the same line of the file in the main branch 
