@@ -11,3 +11,16 @@
    => creates a new branch and jumps to that branch immediately
 
 5. git merge <branch-name>
+
+6. git status
+   => Provides the current status of the repo
+
+7. git clone <project-ssh-link>
+   => Donloads the repo to local device
+
+8. git reset
+   => if need to delete commit 
+   
+
+8. git branch -D <branch_name>
+ 
